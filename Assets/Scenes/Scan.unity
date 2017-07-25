@@ -211,7 +211,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eaf6093640eddb4db74c374bf06d84e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  smoothingFrames: 5
+  smoothingFrames: 7
 --- !u!1 &1665999056
 GameObject:
   m_ObjectHideFlags: 0
