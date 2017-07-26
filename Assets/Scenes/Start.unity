@@ -655,6 +655,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10d67fe8eb84d86468aebefda0a1d506, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enablePopupVideo: 1
   remoteUrl: http://192.168.1.102:8080/web/wutian
   language: cn
   message: {fileID: 1104783844}
