@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AeraOUn/////AAAAGbEuXvFHOURkv3ylxsE5OqiLF6NrwqaHhX7BVFqY/euI3jL57BdhddUD3GpZutJ9iJH3r8tpI/CiONDXxRCgajdOWjUVLm4uIV/7itQxJP/A2Rg78kdRO+bwRFpGYnAUdu3Ak6q/E6EbvIiEuRbxG9PB72ho3sa0J4O6eEa3pTtnamrByvgGa69F0AlxFe9E+OMfZmfoX+38l9C9ptdaOQ+46vrRZRYlmT/qgElmZ202VLy7AD0qmDJJZzSeyWLEeLUNAVSrGL4P80pBPfIgnuHx6QCNcJTvtTzmOxh7O+zldE584wXAbpn1RW0CsZFqPXNBF4glyyok16m7xH1NJ3OF7SWku+HdpZEhlL2U5hgr
+    vuforiaLicenseKey: AeMiQO7/////AAAAADn5p58F80JKjz8oPdiOzoI9TuhxUZWe+C/71zkOD23ZJtP4zLST/JI1m98yktROnH474dRiWU/U2pxFGqwedENCGLSALCFULZnhIIOINAKyLRNAYGGy+Sl/EdOjIxu6wdoNmdCy4mfcmDG3oyL2UhMujxOHtuH6b1Cc6GPTU49dykUajAFK/9X39SwKuNQBs2o2+Zu4csrG/N0ws5rk4yeaED3IMtD9OfOc2yg2R1qAz9pMLef92Cxr8gvmUrEVKK5xIzsT7BdYGAGa9+bOhKp3WsZqaEFy5f0Mp7CsddpT+/nkSseHl27v8DFFfK0A3aN3we7wZmUBDhAlvscx3acxZFT0t2pBkB9fcu0GsziC
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1

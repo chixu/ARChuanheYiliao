@@ -10,8 +10,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: chkj
-  productName: yiliao
+  companyName: "\u5DDD\u6838\u79D1\u6280"
+  productName: "\u4F17\u751F\u533B\u5B66"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,7 +140,7 @@ PlayerSettings:
     Android: com.chkj.huanshiyixue
     Standalone: "unity.\u5DDD\u6838\u79D1\u6280.\u5E7B\u5B9E\u533B\u5B66"
     Tizen: com.chkj.huanshiyixue
-    iOS: com.chkj.huanshiyixue
+    iOS: com.chkj.zhongshengyx
     tvOS: com.chkj.huanshiyixue
   buildNumber:
     iOS: 0
@@ -162,7 +162,7 @@ PlayerSettings:
     serializedVersion: 2
     m_Bits: 238
   iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 
+  iOSTargetOSVersionString: 7.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
