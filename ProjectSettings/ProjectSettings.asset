@@ -604,8 +604,8 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
   projectName: 
-  organizationId: 
+  cloudProjectId: 7d00942e-ccac-48d5-ae94-53a080548a7c
+  organizationId: holyn
   cloudEnabled: 0
   enableNewInputSystem: 0
