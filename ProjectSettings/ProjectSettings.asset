@@ -601,11 +601,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  projectName: 
   cloudProjectId: 7d00942e-ccac-48d5-ae94-53a080548a7c
+  projectName: "\u4F17\u751F\u533B\u5B66"
   organizationId: holyn
   cloudEnabled: 0
   enableNewInputSystem: 0
