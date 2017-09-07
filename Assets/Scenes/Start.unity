@@ -586,14 +586,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10d67fe8eb84d86468aebefda0a1d506, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  serverVersion: 1.0.1
-  version: 1.0.1
+  serverVersion: 1.1.0
+  version: 1.1.0
   prodRemoteUrl: http://www.iyoovr.com/zhongshengyx
   devRemoteUrl: http://192.168.1.102:8080/web/yiliao/data/yiliao
   language: cn
   enablePopupVideo: 1
   message: {fileID: 1104783844}
-  environment: 1
+  environment: 0
   bg: {fileID: 1782229396}
 --- !u!4 &1160516839
 Transform:
