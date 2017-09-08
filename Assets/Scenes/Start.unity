@@ -594,6 +594,8 @@ MonoBehaviour:
   enablePopupVideo: 1
   message: {fileID: 1104783844}
   environment: 0
+  mainColor: {r: 0.15686275, g: 0.7490196, b: 1, a: 1}
+  uiGrey: {r: 0.53333336, g: 0.53333336, b: 0.53333336, a: 1}
   bg: {fileID: 1782229396}
 --- !u!4 &1160516839
 Transform:
